@@ -7,7 +7,7 @@ title: CV Сергей Рыбченко
 
 <div id="webaddress">
 <a href="https://t.me/sergeyrybchenko">tg: @sergeyrybchenko</a>
-  | <a href="ser_19.02@mail.ru">ser_19.02@mail.ru</a>
+  | <a href="mailto:ser_19.02@mail.ru">ser_19.02@mail.ru</a>
 </div>
 
 
